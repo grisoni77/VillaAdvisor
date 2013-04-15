@@ -1,0 +1,4 @@
+vad_site:
+    resource: "@VadSiteBundle/Resources/config/routing.yml"
+    prefix:   /
+
